@@ -1,0 +1,24 @@
+Atividade Individual: 
+1.  Troca de uma lâmpada queimada, no teto da sala: 
+
+	Ir até uma loja que venda lampadas, caso não tenha nenhuma funcionando extra;
+	Caso você tenha ido até a loja, volte para casa;
+	Vá até ao quarto onde a luz se encontra queima;
+    Caso sua altura não seja o suficiente para trocar a lampada, arrume algo que te permita alcançar, caso contrario, deixe para depois;
+    Coloque sua mão na lampada;
+    Gire a lapada no sentido anti-horario;
+    Remova a lampada queimada;
+    Deixa a lampada queimada em alguma superficie plana, pada não quebrar ou deixe com alguem ;
+    Pegue a lampada nova, caso tenha precisado de algo para nivelar a sua altura, suba e ponha a lampada no bocal;
+    Gire a lapada no sentido horario;
+    Caso esteja em cima de alguma coisa para nivelar a sua altura desça;
+    E se dirija até o interruptor e teste a lampada;
+
+2.  Trocas os valores de uma variavel 
+
+    Defina a variavel valor1; 
+    Defina a variavel valor2;
+    Defina a variavel valorEmMemoria;
+    valorEmMemoria = valor 2;
+    valor2 = valor1;
+    valor1 = valorEmMemoria;
