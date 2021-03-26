@@ -134,10 +134,6 @@ void wellcome(){
     }
 }
 
-void systemChoices(int choice){
-
-}
-
 int main(){
     system("clear");
     wellcome();
